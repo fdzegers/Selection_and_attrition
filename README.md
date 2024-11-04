@@ -2,4 +2,4 @@
 Code for selected descriptives and descriptive tables of the Rheumatic? population
 
 # Background
-WHY THIS IS IMPORTATN
+For the article yet to be published
